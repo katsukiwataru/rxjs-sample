@@ -1,0 +1,30 @@
+{
+  "name": "rxjs-sample",
+  "version": "1.0.0",
+  "description": "first Rxjs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katsukiwataru/rxjs-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katsukiwataru/rxjs-sample/issues"
+  },
+  "homepage": "https://github.com/katsukiwataru/rxjs-sample#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3",
+    "typescript": "^4.1.3",
+    "webpack": "^5.18.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "webpack-cli": "^4.4.0"
+  }
+}
